@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\cs250\labs\lab1\queue\queue\queue\source.cpp(13): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\cs250\labs\lab1\queue\queue\queue\source.cpp(14): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\cs250\labs\lab1\queue\queue\queue\source.cpp(15): warning C4305: 'argument': truncation from 'double' to 'float'
+  Queue.vcxproj -> C:\CS250\Labs\Lab1\Queue\Queue\Debug\Queue.exe
+  Queue.vcxproj -> C:\CS250\Labs\Lab1\Queue\Queue\Debug\Queue.pdb (Partial PDB)
