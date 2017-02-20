@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1487553323 source:/home/josh/Homework/CS250/Homework/Week 05/Project files/Project files/BookProgram.cpp
+	"BookProgram.hpp"
+	"CPP-Utilities-master/Menu.hpp"
+	"CPP-Utilities-master/Strings.hpp"
+	<iostream>
+	<fstream>
+
+1487553323 /home/josh/Homework/CS250/Homework/Week 05/Project files/Project files/BookProgram.hpp
+	<vector>
+	"Page.hpp"
+	"LinkedList.hpp"
+
+1487553323 /home/josh/Homework/CS250/Homework/Week 05/Project files/Project files/Page.hpp
+	<string>
+	<iostream>
+
+1487553323 /home/josh/Homework/CS250/Homework/Week 05/Project files/Project files/LinkedList.hpp
+	<iostream>
+	<string>
+
+1487553323 /home/josh/Homework/CS250/Homework/Week 05/Project files/Project files/CPP-Utilities-master/Menu.hpp
+	<iostream>
+	<string>
+	<vector>
+
+1487553323 /home/josh/Homework/CS250/Homework/Week 05/Project files/Project files/CPP-Utilities-master/Strings.hpp
+	<string>
+
+1487553323 source:/home/josh/Homework/CS250/Homework/Week 05/Project files/Project files/main.cpp
+	<iostream>
+	<string>
+	"BookProgram.hpp"
+	"Tester.hpp"
+
+1487554596 /home/josh/Homework/CS250/Homework/Week 05/Project files/Project files/Tester.hpp
+	"LinkedList.hpp"
+	"cuTEST/StringUtil.hpp"
+	"cuTEST/TesterBase.hpp"
+	"cuTEST/Menu.hpp"
+	<vector>
+	<iostream>
+	<string>
+
+1486009898 /home/josh/Homework/CS250/Homework/Week 05/HW05//cuTEST/StringUtil.hpp
+	<string>
+	<sstream>
+
+1486008846 /home/josh/Homework/CS250/Homework/Week 05/HW05//cuTEST/TesterBase.hpp
+	<string>
+	<list>
+	<functional>
+
+1486009138 /home/josh/Homework/CS250/Homework/Week 05/HW05//cuTEST/Menu.hpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+
+1486003008 source:/home/josh/Homework/CS250/Homework/Week 05/HW05/cuTEST/example.cpp
+	<iostream>
+	"TestTemplate.hpp"
+
+1486003008 /home/josh/Homework/CS250/Homework/Week 05/HW05/cuTEST/TestTemplate.hpp
+	"TesterBase.hpp"
+
+1486008846 /home/josh/Homework/CS250/Homework/Week 05/HW05/cuTEST/TesterBase.hpp
+	<string>
+	<list>
+	<functional>
+
+1486011492 source:/home/josh/Homework/CS250/Homework/Week 05/HW05/cuTEST/TesterBase.cpp
+	"TesterBase.hpp"
+	"Menu.hpp"
+
+1486009138 /home/josh/Homework/CS250/Homework/Week 05/HW05/cuTEST/Menu.hpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+
