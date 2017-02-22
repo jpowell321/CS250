@@ -80,7 +80,7 @@ class LinkedList
 			ptrcurrent = ptrcurrent->ptrNext;
 			counter++;
 		}
-		
+
 		Node<T> * newNode = new Node<T>;
 		newNode->data = newItem;
 		newNode->ptrNext = ptrcurrent;
@@ -94,7 +94,7 @@ class LinkedList
 
     void Extend( const LinkedList& other )
     {
-		
+
 		int counter = 0;
 		while (counter < other.Size())
 		{
@@ -132,6 +132,7 @@ class LinkedList
 
     bool Remove( int index )
     {
+
 		if (index < 0 || index >= m_itemCount)
 		{
 			return false;
@@ -174,17 +175,17 @@ class LinkedList
 			m_itemCount--;
 			return true;
 		}
-		
+
     }
 
     T Get( int index ) const
     {
-		
+
 		if (index < 0 || index >= m_itemCount)
 		{
 			return T(); //Return new "T" item
 		}
-		
+
 		int counter = 0;
 		Node<T>* ptrcurrent = m_ptrFirst;
 
@@ -224,7 +225,7 @@ class LinkedList
 		{
 			return false; // temp
 		}
-		
+
 		int counter = 0;
 		Node<T>* ptrcurrent = m_ptrFirst;
 

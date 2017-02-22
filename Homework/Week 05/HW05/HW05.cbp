@@ -32,23 +32,24 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="../Project files/Project files/BookProgram.cpp" />
-		<Unit filename="../Project files/Project files/BookProgram.hpp" />
-		<Unit filename="../Project files/Project files/LinkedList.hpp" />
-		<Unit filename="../Project files/Project files/Page.hpp" />
-		<Unit filename="../Project files/Project files/Tester.hpp" />
 		<Unit filename="../Project files/Project files/fairytales.txt" />
-		<Unit filename="../Project files/Project files/main.cpp" />
-		<Unit filename="Menu.cpp" />
-		<Unit filename="Menu.hpp" />
-		<Unit filename="Strings.cpp" />
-		<Unit filename="Strings.hpp" />
-		<Unit filename="System.cpp" />
-		<Unit filename="System.hpp" />
+		<Unit filename="BookProgram.cpp" />
+		<Unit filename="BookProgram.hpp" />
+		<Unit filename="CPP-Utilities-master/Menu.cpp" />
+		<Unit filename="CPP-Utilities-master/Menu.hpp" />
+		<Unit filename="CPP-Utilities-master/Strings.cpp" />
+		<Unit filename="CPP-Utilities-master/Strings.hpp" />
+		<Unit filename="CPP-Utilities-master/System.cpp" />
+		<Unit filename="CPP-Utilities-master/System.hpp" />
+		<Unit filename="LinkedList.hpp" />
+		<Unit filename="Page.hpp" />
+		<Unit filename="Tester.hpp" />
 		<Unit filename="cuTEST/Menu.hpp" />
 		<Unit filename="cuTEST/StringUtil.hpp" />
 		<Unit filename="cuTEST/TestTemplate.hpp" />
+		<Unit filename="cuTEST/TesterBase.cpp" />
 		<Unit filename="cuTEST/TesterBase.hpp" />
+		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />

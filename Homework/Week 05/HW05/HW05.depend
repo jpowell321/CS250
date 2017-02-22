@@ -79,3 +79,94 @@
 	<string>
 	<limits>
 
+1487161062 source:/home/josh/Homework/CS250/Homework/Week 05/HW05/Menu.cpp
+	"Menu.hpp"
+	"Strings.hpp"
+	<cstdlib>
+	<limits>
+
+1484626436 /home/josh/Homework/CS250/Homework/Week 05/HW05/Menu.hpp
+	<iostream>
+	<string>
+	<vector>
+
+1484626436 /home/josh/Homework/CS250/Homework/Week 05/HW05/Strings.hpp
+	<string>
+
+1487161066 source:/home/josh/Homework/CS250/Homework/Week 05/HW05/Strings.cpp
+	"Strings.hpp"
+	<cstdlib>
+	<sstream>
+	<iostream>
+
+1487161068 source:/home/josh/Homework/CS250/Homework/Week 05/HW05/System.cpp
+	"System.hpp"
+
+1484626436 /home/josh/Homework/CS250/Homework/Week 05/HW05/System.hpp
+	<string>
+
+1487161062 source:/home/josh/Homework/CS250/Homework/Week 05/HW05/CPP-Utilities-master/Menu.cpp
+	"Menu.hpp"
+	"Strings.hpp"
+	<cstdlib>
+	<limits>
+
+1484626436 /home/josh/Homework/CS250/Homework/Week 05/HW05/CPP-Utilities-master/Menu.hpp
+	<iostream>
+	<string>
+	<vector>
+
+1484626436 /home/josh/Homework/CS250/Homework/Week 05/HW05/CPP-Utilities-master/Strings.hpp
+	<string>
+
+1487161066 source:/home/josh/Homework/CS250/Homework/Week 05/HW05/CPP-Utilities-master/Strings.cpp
+	"Strings.hpp"
+	<cstdlib>
+	<sstream>
+	<iostream>
+
+1487161068 source:/home/josh/Homework/CS250/Homework/Week 05/HW05/CPP-Utilities-master/System.cpp
+	"System.hpp"
+
+1484626436 /home/josh/Homework/CS250/Homework/Week 05/HW05/CPP-Utilities-master/System.hpp
+	<string>
+
+1487161072 source:/home/josh/Homework/CS250/Homework/Week 05/HW05/main.cpp
+	<iostream>
+	<string>
+	"BookProgram.hpp"
+	"Tester.hpp"
+
+1487553323 /home/josh/Homework/CS250/Homework/Week 05/HW05/BookProgram.hpp
+	<vector>
+	"Page.hpp"
+	"LinkedList.hpp"
+
+1487553323 /home/josh/Homework/CS250/Homework/Week 05/HW05/Page.hpp
+	<string>
+	<iostream>
+
+1487725226 /home/josh/Homework/CS250/Homework/Week 05/HW05/LinkedList.hpp
+	<iostream>
+	<string>
+
+1487647373 /home/josh/Homework/CS250/Homework/Week 05/HW05/Tester.hpp
+	"LinkedList.hpp"
+	"cuTEST/StringUtil.hpp"
+	"cuTEST/TesterBase.hpp"
+	"cuTEST/Menu.hpp"
+	<vector>
+	<iostream>
+	<string>
+
+1486009898 /home/josh/Homework/CS250/Homework/Week 05/HW05/cuTEST/StringUtil.hpp
+	<string>
+	<sstream>
+
+1487553323 source:/home/josh/Homework/CS250/Homework/Week 05/HW05/BookProgram.cpp
+	"BookProgram.hpp"
+	"CPP-Utilities-master/Menu.hpp"
+	"CPP-Utilities-master/Strings.hpp"
+	<iostream>
+	<fstream>
+

@@ -313,7 +313,7 @@ int TestRemove()
         arr2.Push( values[i] );
 	}
 
-    for ( int i = 0; i < ARBITRARY_SIZE; i++ )
+    for ( int i = 0; i <= ARBITRARY_SIZE; i++ )
     {
         arr2.Remove( 0 );
     }
