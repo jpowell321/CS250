@@ -57,6 +57,8 @@ public:
 			m_ptrLast = newNode;			// The new last is the new node
 		}
 		m_itemCount++;
+		
+		Sort();
 	}
 
 	void Sort()
@@ -113,6 +115,10 @@ public:
 	void Display()
 	{
 		Node<T>* ptrCurrent = m_ptrFirst;
+		if (ptrCurrent == nullptr)
+		{
+			cout << "No Data" << endl;
+		}
 		while (ptrCurrent != nullptr)
 		{
 			cout << ptrCurrent->data;
@@ -130,6 +136,7 @@ public:
 
 			ptrCurrent = ptrCurrent->ptrNext;
 		}
+		
 	}
 private:
 	Node<T>* m_ptrFirst;
