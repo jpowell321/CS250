@@ -1,0 +1,129 @@
+﻿  main.cpp
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(81): error C2143: syntax error: missing ';' before '*'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(40): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(45): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(56): error C2676: binary '*': 'Filesystem' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(81): error C2061: syntax error: identifier 'File'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(82): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(82): error C2059: syntax error: '{'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(82): error C2143: syntax error: missing ';' before '{'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(82): error C2447: '{': missing function header (old-style formal list?)
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(94): error C2059: syntax error: 'public'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(96): error C2059: syntax error: ')'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(97): error C2143: syntax error: missing ';' before '{'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(97): error C2447: '{': missing function header (old-style formal list?)
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(102): error C2588: '::~Filesystem': illegal global destructor
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(103): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(104): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(104): error C2541: 'delete': cannot delete objects that are not pointers
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(105): warning C4508: 'Filesystem': function should return a value; 'void' return type assumed
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(108): error C2065: 'ptrFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(109): error C2448: 'GetPath': function-style initializer appears to be a function definition
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(121): error C2065: 'm_nodeCount': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(124): error C2059: syntax error: 'private'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(129): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(129): error C2061: syntax error: identifier 'File'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(130): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(130): error C2227: left of '->isDirectory' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(130): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(131): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(131): error C2227: left of '->name' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(131): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(132): error C2065: 'm_nodeCount': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(134): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(139): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(139): error C2061: syntax error: identifier 'File'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(140): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(140): error C2227: left of '->isDirectory' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(140): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(141): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(141): error C2227: left of '->name' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(141): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(142): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(142): error C2227: left of '->ptrParent' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(142): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(142): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(143): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(143): error C2227: left of '->childrenPtrs' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(143): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(143): error C2228: left of '.push_back' must have class/struct/union
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(143): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(144): error C2065: 'm_nodeCount': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(146): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(152): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(152): error C2061: syntax error: identifier 'File'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(153): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(153): error C2227: left of '->isDirectory' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(153): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(154): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(154): error C2227: left of '->name' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(154): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(155): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(155): error C2227: left of '->ptrParent' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(155): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(155): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(156): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(156): error C2227: left of '->childrenPtrs' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(156): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(156): error C2228: left of '.push_back' must have class/struct/union
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(156): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(157): error C2065: 'm_nodeCount': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(159): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(163): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(163): error C2227: left of '->childrenPtrs' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(163): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(163): error C2228: left of '.size' must have class/struct/union
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(165): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(165): error C2227: left of '->childrenPtrs' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(165): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(165): error C2227: left of '->isDirectory' must point to class/struct/union/generic type
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(168): error C2065: 'newFolder': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(168): error C2061: syntax error: identifier 'File'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(169): error C2065: 'newFolder': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(169): error C2227: left of '->isDirectory' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(169): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(172): error C2065: 'newFolder': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(172): error C2227: left of '->name' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(172): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(173): error C2065: 'newFolder': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(173): error C2227: left of '->ptrParent' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(173): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(173): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(173): error C2227: left of '->childrenPtrs' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(173): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(174): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(174): error C2227: left of '->childrenPtrs' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(174): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(174): error C2228: left of '.push_back' must have class/struct/union
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(174): error C2065: 'newFolder': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(175): error C2065: 'm_nodeCount': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(177): error C2065: 'newFolder': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(182): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(182): error C2061: syntax error: identifier 'File'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(183): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(183): error C2227: left of '->isDirectory' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(183): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(186): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(186): error C2227: left of '->name' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(186): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(187): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(187): error C2227: left of '->ptrParent' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(187): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(187): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(187): error C2227: left of '->childrenPtrs' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(187): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(188): error C2065: 'm_ptrRoot': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(188): error C2227: left of '->childrenPtrs' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(188): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(188): error C2228: left of '.push_back' must have class/struct/union
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(188): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(189): error C2065: 'm_nodeCount': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(191): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(195): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(195): error C2061: syntax error: identifier 'File'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(196): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(196): error C2227: left of '->isDirectory' must point to class/struct/union/generic type
+  c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(196): note: type is 'unknown-type'
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(199): error C2065: 'newFile': undeclared identifier
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(199): error C2227: left of '->name' must point to class/struct/union/generic type
+c:\users\svc-student\cs250\labs\tree lab\tree lab\filesystem.hpp(199): fatal error C1003: error count exceeds 100; stopping compilation
